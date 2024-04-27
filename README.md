@@ -1,5 +1,8 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
 
+### <span>This is based on https://github.com/JayBlackedOut/hass-nhlapi with a few modifications. </span>
+
+
 # <span style="color:red">Breaking Change!</span>
 On September 21, 2023, the NHL started retiring their API endpoints and introduced a new API. Like the previous API, the new one is public but undocumented/not publicized. This custom component has been reworked to consume the new API. 
 
